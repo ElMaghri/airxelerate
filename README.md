@@ -1,14 +1,15 @@
-# Getting Started with Create React App
+# Airxelerate Assessment Test: React development
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and [Devextreme toolkit1](https://js.devexpress.com/)
 
-## Available Scripts
 
-In the project directory, you can run:
+## After clone
 
-### `npm start`
+after cloning this repo please run  `npm install` or `yarn` to install all  dependencices 
 
-Runs the app in the development mode.\
+### Serve
+
+Runs the app in the development mode, by runing  `npm start` or `yarn start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
